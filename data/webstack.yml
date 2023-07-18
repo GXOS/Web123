@@ -1,0 +1,77 @@
+---
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links:
+    - title: 语雀
+      logo: 语雀.jpg
+      url: https://www.yuque.com/
+      description: 专业的云端知识库。
+    - title: 未来门户
+      logo: 开源中国.jpg
+      url: https://pm.crm.cn:8000
+      description: 开源技术交流社区。
+    - title: GitHub
+      logo: github.jpg
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: 腾讯企业邮
+      logo: qq邮箱.png
+      url: https://exmail.qq.com/
+      description: 腾讯企业邮。
+    - title: 腾讯文档
+      logo: https://api.iowen.cn/favicon/docs.qq.com.png
+      url: https://docs.qq.com/
+      description: 腾讯文档相关
+    - title: AOSP代码
+      url: https://www.androidxref.cn/
+      logo: Android9patch.png
+      description: AOSP主站代码搜索
+- taxonomy: 工作日常
+  icon: fas fa-tools fa-lg
+  list:
+    - term: 云上资源
+      links:
+        - title: OA
+          logo: coding.png
+          url: https://d.dingoa.com/sxyzsk/login.jsp
+          description: OA登录
+        - title: 禅道
+          logo: https://api.iowen.cn/favicon/www.zentao.net.png
+          url: https://pm.crm.cn:8087/
+          description: Bug管理系统
+        - title: GitLab
+          logo: https://api.iowen.cn/favicon/gitlab.com.png
+          url: https://pm.crm.cn:8443/
+          description: GitLab仓库
+        - title: SeaFile
+          logo: alist.svg
+          url: https://pm.crm.cn:8143/
+          description: 公共文件存储
+        - title: 固件版本
+          logo: liqi.png
+          url: https://pm.crm.cn:9080/download/build/
+          description: 每日编译等
+    - term: 本地内网
+      links:
+        - title: NAS面板(内网)
+          url: http://192.168.1.10
+          logo: trianglify.png
+          description: NAS管理与配置
+        - title: OpenGrok(内网)
+          url: http://192.168.3.8:8080
+          logo: Android9patch.png
+          description: 代码搜索引擎
+        - title: Aria2下载(内网)
+          url: http://192.168.3.8:16804
+          logo: Illustrator.png
+          description: 网盘下载神器
+    - term: 书签收藏
+      links:
+        - title: AOSP备用
+          url: http://aospxref.com/
+          logo: Android9patch.png
+          description: AOSP备用站代码搜索
+        - title: AndroidStudio
+          url: https://developer.android.google.cn/studio
+          logo: https://api.iowen.cn/favicon/developer.android.google.cn.png
+          description: AS下载及文档
