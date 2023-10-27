@@ -37,4 +37,4 @@ publishDir = "docs"
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：liudehua@apple.com <br/>&copy; 2022 - {year} By [LiuDeHua](https://github.com/wj2008/wj2008.github.io) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：liudehua@apple.com <br/>&copy; 2022 - {year} By [灿烂的玫瑰花]<br/>'
