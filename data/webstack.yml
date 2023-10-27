@@ -6,10 +6,6 @@
       logo: 语雀.jpg
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: 未来门户
-      logo: 开源中国.jpg
-      url: https://pm.crm.cn:8000
-      description: 开源技术交流社区。
     - title: GitHub
       logo: github.jpg
       url: https://github.com/
